@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution](https://www.frontendmentor.io/solutions/results-summary-prdsiyrlIa)
-- Live Site URL: [Live Site](https://abdoomar01.github.io/resultssummary)
+- Live Site URL: [Live Site](https://abdoomar01.github.io/results-summary)
 
 ## My process
 
